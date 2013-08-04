@@ -3,7 +3,7 @@
 #
 # Gets the top and bottom 3  rows from a file.
 #
-# Usage: sh GetTopRows numbers.sh
+# Usage: sh GetTopAndBottomRows.sh numbers.sh
 #
 ####################################
 

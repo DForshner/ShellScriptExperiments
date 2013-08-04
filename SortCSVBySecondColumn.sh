@@ -9,4 +9,4 @@
 
 # Numeric (-n)
 # Sort on second column (-k2)
-sort -n -k2 $1 | more
+sort -n -k2 $1
